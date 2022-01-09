@@ -1,4 +1,4 @@
-### Hi there 👋
+### “Those who know nothing of foreign languages know nothing of their own.” – Johann Wolfgang von Goethe “那些不懂得外语的人也并不了解他们自己。”——约翰·沃尔夫冈·冯·歌德 👋
 
 <!--
 **zhengjun6k/zhengjun6k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
